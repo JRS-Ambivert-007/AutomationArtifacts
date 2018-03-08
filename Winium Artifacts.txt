@@ -1,0 +1,5 @@
+Winium Artifacts
+https://github.com/2gis/winium
+https://github.com/2gis/winium.Desktop
+https://github.com/2gis/winium.Desktop/releases
+https://github.com/blackrosezy
